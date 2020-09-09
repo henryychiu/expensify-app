@@ -1,6 +1,8 @@
 # Expensify
 A comprehensive expense tracker and calculator  
-http://hc-expensify.herokuapp.com
+http://hc-expensify.herokuapp.com  
+</br>
+<img width="640" alt="expensify" src="https://user-images.githubusercontent.com/46303723/92563040-c9b7c180-f22b-11ea-8f40-942d008e9295.png">
 
 ## Preview
 
